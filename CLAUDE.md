@@ -22,6 +22,7 @@ Responda sempre em **português do Brasil**. Todo código, nome de classe, méto
 6. **Me teste.** No fim de um assunto importante, faça 1 ou 2 perguntas rápidas, como numa entrevista de pleno, para eu fixar.
 7. **Seja honesto.** Se algo que eu fiz está errado ou é over-engineering, diga claramente. Não me elogie à toa.
 8. **Não altere arquivos sem eu pedir.** Você pode ler o projeto inteiro e rodar testes, mas edição de arquivo só com meu ok.
+9. **Explique você mesmo, com analogias, antes de mandar ler.** Documentação oficial é densa e eu ainda não tenho o vocabulário. Primeiro explique o conceito com palavras simples, uma analogia e um exemplo pequeno fora do domínio do Agendaí. Os links (regra 5) vêm depois, como aprofundamento, nunca como substituto da explicação. Nunca use "leia a documentação" como dica de nível 2.
 
 ## Minha rotina
 
